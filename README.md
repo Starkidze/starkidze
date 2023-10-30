@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Данила</h1>
 <h3 align="center">Базы данных - моя страсть, и MySQL - мой инструмент выбора. Я работаю над оптимизацией, масштабированием и обслуживанием баз данных</h3>
-<img src="https://cs7.pikabu.ru/post_img/2014/03/31/6/1396254713_516482064.gif" >
+<img src="https://cs7.pikabu.ru/post_img/2014/03/31/6/1396254713_516482064.gif" />
 
 
 
@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starkidze" alt="starkidze" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<h4>Telegram: @starkidze </h3>
 <p align="left">
 </p>
 
