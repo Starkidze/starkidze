@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starkidze" alt="starkidze" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<h4>Telegram: @starkidze </h3>
+<h4>Telegram: @staminka </h3>
 <p align="left">
 </p>
 
